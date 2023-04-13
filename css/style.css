@@ -5,18 +5,17 @@
 }
 body {
   font-family: "MiFuentePersonalizada";
-
 }
 
 #articulo2 {
   font-size: 50px;
 }
 
-h2{
+h2 {
   font-size: 170%;
 }
 
-article{
+article {
   border-radius: 20px;
 }
 
@@ -28,4 +27,5 @@ body {
     #27444d 25%,
     #110c02 66%
   );
+  background-attachment: fixed;
 }
