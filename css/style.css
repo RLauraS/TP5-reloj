@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "MiFuentePersonalizada";
+  src: url("../fuente/DS-DIGII.TTF") format("truetype"),
+    url("../fuente/DS-DIGII.TTF") format("truetype");
+}
+body {
+  font-family: "MiFuentePersonalizada";
+
+}
+
+#articulo2 {
+  font-size: 50px;
+}
+
+h2{
+  font-size: 170%;
+}
+
+article{
+  border-radius: 20px;
+}
+
+body {
+  background-color: #4beb9c;
+  background-image: linear-gradient(
+    43deg,
+    #4beb9c 0%,
+    #27444d 25%,
+    #110c02 66%
+  );
+}
